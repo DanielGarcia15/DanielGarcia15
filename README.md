@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DanielGarcia15
+- 👀 I’m interested in Data Analysis in the financial industry
+- 🌱 I’m currently learning Python and R to perform statistical research. As well as VBA to automate processes in Excel.
